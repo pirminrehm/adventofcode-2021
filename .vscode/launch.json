@@ -7,9 +7,9 @@
     {
       "type": "pwa-node",
       "request": "launch",
-      "name": "QuestDebugger",
+      "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\quest-4-pt2.js"
+      "program": "${workspaceFolder}\\src\\quest-5.js"
     }
   ]
 }
