@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node ./src/quest-6.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
