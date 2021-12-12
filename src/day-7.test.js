@@ -1,5 +1,5 @@
 const { expect } = require('@jest/globals');
-const { computeBestFit, computeBestFitPart2 } = require('./quest-7.util');
+const { computeBestFit, computeBestFitPart2 } = require('./day-7.util');
 
 describe('day 7', () => {
   it('should compute best case', () => {

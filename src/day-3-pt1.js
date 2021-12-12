@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const input = fs
-  .readFileSync('./input/quest-3.input.txt')
+  .readFileSync('./input/day-3.input.txt')
   .toString('utf-8')
   .split('\n')
   .filter((v) => !!v);

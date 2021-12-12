@@ -6,10 +6,10 @@
   "configurations": [
     {
       "type": "pwa-node",
-      "request": "launch",
+      "reday": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\src\\quest-8.js"
+      "program": "${workspaceFolder}\\src\\day-8.js"
     }
   ]
 }

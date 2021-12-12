@@ -3,9 +3,9 @@ const {
   getNrIfKnown,
   getDisplayValueByLine,
   getSignalMapping,
-} = require('./quest-8.util');
+} = require('./day-8.util');
 
-fdescribe('day 6', () => {
+describe('day 6', () => {
   it('should compute correct numbers for input', () => {
     // given
     const input = [

@@ -1,6 +1,6 @@
 const fs = require('fs');
-const input = fs.readFileSync('./input/quest-6.input.txt').toString('utf-8');
-const { computeMultipleGenerations } = require('./quest-6.util');
+const input = fs.readFileSync('./input/day-6.input.txt').toString('utf-8');
+const { computeMultipleGenerations } = require('./day-6.util');
 const inputList = input
   .split(',')
   .filter((v) => !!v)

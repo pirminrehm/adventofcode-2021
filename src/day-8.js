@@ -4,8 +4,8 @@ const {
   getSignalMapping,
   arraySum,
   getDisplayValueByLine,
-} = require('./quest-8.util');
-const input = fs.readFileSync('./input/quest-8.input.txt').toString('utf-8');
+} = require('./day-8.util');
+const input = fs.readFileSync('./input/day-8.input.txt').toString('utf-8');
 const inputLines = input
   .split('\n')
   .filter((v) => !!v)

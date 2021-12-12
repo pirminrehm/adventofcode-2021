@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { parse } = require('path/posix');
-const input = fs.readFileSync('./input/quest-5.input.txt').toString('utf-8');
+const input = fs.readFileSync('./input/day-5.input.txt').toString('utf-8');
 const rows = input.split('\n').filter((v) => !!v);
 const sea = Array.from({ length: 999 }, () => Array(999).fill(0));
 

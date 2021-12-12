@@ -2,7 +2,7 @@ const { expect } = require('@jest/globals');
 const {
   computeNextGeneration,
   computeMultipleGenerations,
-} = require('./quest-6.util');
+} = require('./day-6.util');
 
 describe('day 6', () => {
   it('should compute next generation', () => {
