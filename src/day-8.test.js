@@ -5,7 +5,7 @@ const {
   getSignalMapping,
 } = require('./day-8.util');
 
-describe('day 6', () => {
+describe('day 8', () => {
   it('should compute correct numbers for input', () => {
     // given
     const input = [
