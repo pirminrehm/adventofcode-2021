@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node ./src/quest-6.js",
+    "start": "node ./src/quest-8.js",
     "test": "jest",
     "test:watch": "jest --watch"
   },
