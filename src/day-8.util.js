@@ -139,4 +139,5 @@ module.exports = {
   getNrIfKnown,
   getDisplayValueByLine,
   arraySum,
+  ascSort,
 };

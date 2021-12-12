@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node ./src/day-8.js",
+    "start": "node ./src/day-9.js",
     "test": "jest",
     "test:watch": "jest --watch"
   },
