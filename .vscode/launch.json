@@ -9,7 +9,7 @@
       "reday": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\src\\day-10.js"
+      "program": "${workspaceFolder}\\src\\day-13.js"
     }
   ]
 }
